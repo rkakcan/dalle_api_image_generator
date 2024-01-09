@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.container {
+    text-align: center;
+}
+
+#prompt-input {
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#generate-btn {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#image-container {
+    margin-top: 20px;
+}
